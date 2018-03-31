@@ -19,7 +19,7 @@ public class OiMundo extends HttpServlet{
 		out.println("<title>Primeira Servlet</title>");
 		out.println("</head>");
 		out.println("<body>");
-		out.println("<h1>Aula sobre Servlet</h1>");
+		out.println("<h1>Primeira Servlet</h1>");
 		out.println("</body>");
 		out.println("</html>");
 	}
