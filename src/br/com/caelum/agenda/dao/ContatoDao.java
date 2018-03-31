@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import br.com.caelum.agenda.ConnectionFactory;
+import br.com.caelum.agenda.connection.ConnectionFactory;
 import br.com.caelum.agenda.modelo.Contato;
 
 public class ContatoDao {
